@@ -1,0 +1,35 @@
+{
+    "name": "A股纪律助手",
+    "short_name": "纪律助手",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0F1C2E",
+    "theme_color": "#0F1C2E",
+    "description": "基于买卖纪律规则的A股个股信号扫描",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
